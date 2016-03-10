@@ -1,0 +1,22 @@
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\CSampleServer\bin\Debug\CSampleServer.exe.config
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\CSampleServer\bin\Debug\CSampleServer.exe
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\CSampleServer\bin\Debug\CSampleServer.pdb
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\CSampleServer\bin\Debug\FreeNet.dll
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\CSampleServer\bin\Debug\FreeNet.pdb
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\CSampleServer\obj\Debug\CSampleServer.exe
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\CSampleServer\obj\Debug\CSampleServer.pdb
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\CSampleServer\bin\Debug\CSampleServer.exe.config
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\CSampleServer\obj\Debug\CSampleServer.exe
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\CSampleServer\obj\Debug\CSampleServer.pdb
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\CSampleServer\bin\Debug\CSampleServer.exe
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\CSampleServer\bin\Debug\CSampleServer.pdb
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\CSampleServer\bin\Debug\FreeNet.dll
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\CSampleServer\bin\Debug\FreeNet.pdb
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\CSampleServer\obj\Debug\CSampleServer.csprojResolveAssemblyReference.cache
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\CSampleServer\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\GITHUB_YOS_Server\FreeNet_server_sourcecode\CSampleServer\bin\Debug\CSampleServer.exe.config
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\GITHUB_YOS_Server\FreeNet_server_sourcecode\CSampleServer\obj\Debug\CSampleServer.exe
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\GITHUB_YOS_Server\FreeNet_server_sourcecode\CSampleServer\obj\Debug\CSampleServer.pdb
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\GITHUB_YOS_Server\20160310_server1\CSampleServer\bin\Debug\CSampleServer.exe.config
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\GITHUB_YOS_Server\20160310_server1\CSampleServer\obj\Debug\CSampleServer.exe
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\GITHUB_YOS_Server\20160310_server1\CSampleServer\obj\Debug\CSampleServer.pdb

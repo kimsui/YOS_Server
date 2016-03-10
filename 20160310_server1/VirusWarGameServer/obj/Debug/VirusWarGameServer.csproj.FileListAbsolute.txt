@@ -1,0 +1,24 @@
+C:\Users\bit\비즈니스용 OneDrive\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe.config
+C:\Users\bit\비즈니스용 OneDrive\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe
+C:\Users\bit\비즈니스용 OneDrive\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\VirusWarGameServer.pdb
+C:\Users\bit\비즈니스용 OneDrive\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\FreeNet.dll
+C:\Users\bit\비즈니스용 OneDrive\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\FreeNet.pdb
+C:\Users\bit\비즈니스용 OneDrive\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWarGameServer.csprojResolveAssemblyReference.cache
+C:\Users\bit\비즈니스용 OneDrive\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWarGameServer.exe
+C:\Users\bit\비즈니스용 OneDrive\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWarGameServer.pdb
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe.config
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWarGameServer.exe
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWarGameServer.pdb
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\VirusWarGameServer.pdb
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\FreeNet.dll
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\FreeNet.pdb
+C:\Users\bit\비즈니스용 OneDrive\CSharpHanbit\소스코드\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWarGameServer.csprojResolveAssemblyReference.cache
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe.config
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWarGameServer.exe
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWarGameServer.pdb
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\VirusWarGameServer.pdb
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\FreeNet.dll
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\VirusWarGameServer\bin\Debug\FreeNet.pdb
+C:\Users\KIMSUI\OneDrive - chungbuk.ac.kr\FreeNet_server_sourcecode\VirusWarGameServer\obj\Debug\VirusWarGameServer.csprojResolveAssemblyReference.cache
